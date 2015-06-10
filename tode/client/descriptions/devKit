@@ -1,0 +1,19 @@
+TDSessionDescription {
+	#name : 'devKit',
+	#stoneHost : '192.168.5.89',
+	#stoneName : 'devKit',
+	#gemHost : '192.168.5.89',
+	#netLDI : 'devKit_ldi',
+	#gemTask : 'gemnetobject',
+	#userId : 'DataCurator',
+	#password : 'swordfish',
+	#osUserId : nil,
+	#osPassword : nil,
+	#dataDirectory : nil,
+	#backupDirectory : '/Users/jano/Documents/Projects/ExamBuilder/Gemstone/gsDevKitHome/gemstone/stones/devKit/backups/',
+	#gemstoneVersion : '3.2.1',
+	#gciLibraryName : nil,
+	#adornmentColor : nil,
+	#serverGitRoot : '/Users/jano/Documents/Projects/ExamBuilder/Gemstone/gsDevKitHome/gemstone/stones/devKit/git',
+	#serverTodeRoot : '/Users/jano/Documents/Projects/ExamBuilder/Gemstone/gsDevKitHome/tode'
+}
